@@ -1,3 +1,6 @@
+This is a fork of https://github.com/Sub6Resources/flutter_html
+to remove unused unnecessary packages (see https://github.com/Sub6Resources/flutter_html/issues/773)
+
 # flutter_html
 [![pub package](https://img.shields.io/pub/v/flutter_html.svg)](https://pub.dev/packages/flutter_html)
 [![codecov](https://codecov.io/gh/Sub6Resources/flutter_html/branch/master/graph/badge.svg)](https://codecov.io/gh/Sub6Resources/flutter_html)
